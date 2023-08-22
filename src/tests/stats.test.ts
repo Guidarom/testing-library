@@ -2,7 +2,6 @@
 import * as statsAsync from "../statsAsync"
 import {average, sum} from "../stats"
 
-
 describe("Stats should",()=>{
 
     it( "calculates the sum of all elements of the array", ()=>{
