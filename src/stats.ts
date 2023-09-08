@@ -3,5 +3,5 @@ export function sum (numbers:number[]){
 }
 
 export function average (numbers:number[]){
-    return sum(numbers) / numbers.length
+    return sum(numbers) / numbers.length 
 }
